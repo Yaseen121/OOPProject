@@ -1,4 +1,4 @@
-# Object Oriented Programming Project - An Adventure Game
+# Object Oriented Programming Project - An Adventure Game (Spring 2017)
 
 A simple 2D adventure game created using Java.
 
