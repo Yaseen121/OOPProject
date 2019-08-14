@@ -1,0 +1,5 @@
+Archer --> Bow + Slash (Sword)
+Brute --> Shield + Slash (Dagger) + Thrust (Shield/Spear)
+Mage --> SpellCast
+Knight --> Slash (Sword)
+All have Walk and Hurt
